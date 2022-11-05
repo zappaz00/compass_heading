@@ -1,7 +1,7 @@
 name: compass_heading
 description: Plugin for combine magnetometer and accelerometer data to get corrected compass heading.
 version: 0.0.1
-homepage:
+homepage: https://github.com/zappaz00/compass_heading
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
